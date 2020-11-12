@@ -1,2 +1,2 @@
 # Mini Project 1
- For my ELET mini project
+ Eric Chang was here 11/12/2020
